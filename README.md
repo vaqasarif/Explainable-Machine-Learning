@@ -1,6 +1,10 @@
 # Explainable-Machine-Learning
 This repository present the view of machine learning models in production.
-Objectives: To display clear and understandable results
+
+Objectives: 
+
+To display clear and understandable results.
+
 To allow Data Scientists to quickly understand their models by using a webapp.
 
 Dependencies:
