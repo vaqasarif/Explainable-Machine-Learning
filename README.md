@@ -1,5 +1,5 @@
 # Explainable-Machine-Learning
-This repository present the view of machine learning models in production.
+This repository presents the view of machine learning models in production.
 
 Objectives: 
 
